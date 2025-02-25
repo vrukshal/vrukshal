@@ -111,12 +111,3 @@ You can see my competitive coding profile at: https://leetcode.com/vrukshal/
 
 
 #
-
-<details open> 
-  <summary><h2>📈 Profile Statistics</h2></summary>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=DhairyaPatel2210&theme=highcontrast&hide_border=true&stroke=F0C38E&fire=F0C38E&ring=F0C38E&currStreakLabel=F0C38E&background=DDDDDD00" alt="Typing SVG" />
-
-</p>
-
-</details>
