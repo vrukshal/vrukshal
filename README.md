@@ -20,6 +20,8 @@ Thanks for stopping by my LinkedIn profile. I am Self-motivated, Resourceful, an
 🚨 Do reach out if you have open software engineering positions starting May 2025 😊
 
 You can see my competitive coding profile at: https://leetcode.com/vrukshal/
+Feel free to contact me using my LinkedIn for any opportunities you might have at: https://www.linkedin.com/in/vrukshal
+
 </p>
 
 <!-- </details> -->
